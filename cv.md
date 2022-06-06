@@ -2,7 +2,6 @@
 ### Contacts
 * E-mail: annazhukova111@yandex.by
 * GitHub: [a-zhuchok](https://github.com/a-zhuchok)
-=======
 ### About me
 I am 22 years old. I work as a metrology engineer.I lead an active lifestyle and study programming languages. I want to be a front end developer.
 ### My skills
