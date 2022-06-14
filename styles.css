@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Teko', sans-serif;
+    font-weight: 300;
+}
+a {
+    color: black;  
+}
+a:hover {
+    color: #003efb;
+}
+.header {
+    display: flex;
+    background-color: rgb(230, 236, 230);
+    height: 600px;
+}
+.content {
+    padding-left: 25% ;
+    padding-top: 70px;
+}
+.name {
+     font-size: 64px;
+}
+.avatar {
+    position: absolute;
+    left: 60%;
+    top: 0;
+    padding-top: 30px;
+    max-width: 100%;
+}
+.job {
+    font-size: 32px;
+}
+.country {
+    font-size: 24px;
+}
+.contacts {
+    margin-top: 30px;
+    font-size: 32px; 
+}
+.about {
+    background-color: #588e3c;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: bisque;
+    font-size: 32px;
+}
+.skills__name {
+    background-color: rgb(230, 236, 230);
+    height: 300px;
+    font-size: 32px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+}
+.sk {
+    padding-top: 30px;
+    font-size: 64px;
+    background-color: rgb(230, 236, 230);
+    text-align: center;
+}
+.work {
+    padding-top: 30px;
+    font-size: 64px;
+    background-color: rgb(230, 236, 230);
+    text-align: center;
+}
+.task {
+    padding-top: 30px;
+    font-size: 64px;
+    background-color: #588e3c;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.work__name {
+    padding-top: 30px;
+    font-size: 32px;
+    background-color: rgb(230, 236, 230);
+    text-align: center;
+    padding-bottom: 60px;
+}
+.education {
+    padding-top: 30px;
+    font-size: 64px;
+    background-color: rgb(230, 236, 230);
+    text-align: center;
+}
+.education__name {
+    padding-top: 30px;
+    font-size: 32px;
+    background-color: rgb(230, 236, 230);
+    text-align: center;
+}
+.language {
+    padding-top: 30px;
+    font-size: 64px;
+    background-color: rgb(230, 236, 230);
+    text-align: center;
+}
+.language__name {
+    padding-top: 30px;
+    font-size: 32px;
+    background-color: rgb(230, 236, 230);
+    text-align: center;
+    padding-bottom: 30px;
+}
+footer {
+    background-color: #588e3c;
+    height: 150px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.logo {
+    width: 200px;
+}
+.rsshool {
+    color: white;
+    font-size: 32px;
+}
+.year {
+    color: white;
+    font-size: 24px;
+}
+nav {
+    color: black;
+    padding-bottom: 30px;
+    list-style-type: none;
+}
